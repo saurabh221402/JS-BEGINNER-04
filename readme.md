@@ -18,3 +18,5 @@ this method is also use to manipulate the value of psedoelement
 
 4. node.parentElement.remove()
 this method is used to remove the element with it parent element
+
+<img src="https://drive.google.com/file/d/1HkOjVDEHjOyPKnYkH-WeyuvBCWDEpfy8/view?usp=drive_link">
